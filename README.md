@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeIgor31, student of Bauman Moscow State Technical University
 - 👀 I’m interested in Programming(C++/RoR)
 - 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I would like to participate in interesting projects
 - 📫 How to reach me:
 email: yagmurov.igor@mail.ru
 phone number: +79163849119
