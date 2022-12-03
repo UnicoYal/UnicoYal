@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @CodeIgor31, student of Bauman Moscow State Technical University
+- 👀 I’m interested in Programming(C++/RoR)
+- 🌱 I’m currently learning Ruby on Rails
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me email: yagmurov.igor@mail.ru
+
+<!---
+CodeIgor31/CodeIgor31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
