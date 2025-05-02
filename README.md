@@ -2,7 +2,7 @@
 
 I'm Igor, a self-motivated tech enthusiast, a student of BMSTU and Ruby/Golang developer.
 
-💻 Ruby backend developer [LevelTravel](https://level.travel/)  
+💻 Go backend developer [VK Tech](https://tech.vk.com/)  
 💬 connect [@unico_yal](https://t.me/unico_yal)    
 
 ### 🛠 &nbsp;Languages and Tools :
