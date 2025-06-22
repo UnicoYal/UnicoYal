@@ -4,6 +4,7 @@ I'm Igor, a self-motivated tech enthusiast, a student of BMSTU and Ruby/Golang d
 
 💻 Go backend developer [VK Tech](https://tech.vk.com/)  
 💬 connect [@unico_yal](https://t.me/unico_yal)    
+📱 more info [LinkedIn](https://www.linkedin.com/in/igor-yagmurov-a02153364/)
 
 ### 🛠 &nbsp;Languages and Tools :
 
